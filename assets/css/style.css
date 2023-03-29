@@ -86,7 +86,7 @@ nav img{
   margin: 200px;
   width: 1000px;
   border: 1px solid black;
-  position: fixed;
+  position: relative;
   box-shadow:0 0 30px #3d3d3d;
   background-color: white;
 }
